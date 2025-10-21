@@ -1,0 +1,47 @@
+Magnesium Index Files for 2025-04-01: 
+Generated using SUIT Data 
+-----------------------------------------------
+NB04 [1] : 87931280000.0 
+NB03 [1] : 152016860000.0 
+NB02 [1] : 215887360000.0 
+NB05 [1] : 406855600000.0 
+
+NB04 Error [1] : 17798.914 
+NB03 Error [1] : 36199.406 
+NB02 Error [1] : 26091.395 
+NB05 Error [1] : 42745.625 
+
+Numer [1] : 239948140000.0 
+Denom [1] : 622743000000.0 
+
+Numer_Err [1] : 40338.546759356606 
+Denom_Err [1] : 50079.4301607553 
+
+SUIT Mg II Index [1] : 0.38530844 
+SUIT Mg II Error [1] : 7.180516003407465e-08 
+SUIT Mg II Tstamp[1] : 2025-04-01T13:19:02.222490000 
+
+
+Exposures : Corrected 
+
+Numerator : 239473033216.0
+Denominator : 621701365760.0
+Numerator Err: 39968.567253035006
+Denominator Err: 49235.32575002124
+SUIT Magnesium Index : 0.38518965244293213
+SUIT Magnesium Index Error : 3.558513615608231e-08
+SUIT Magnesium Std. Error: 9.493139805272222e-05
+
+Binned : Yes
+Method: Summed
+
+ ------------------------------------------------
+GOME2B : 0.282395
+GOME2B TS : 2025-04-01 12:01:28.127998
+GOME2C : 0.275358
+GOME2C TS : 2025-04-01 11:13:06.815999
+Bremen Composite : 0.16631
+Bremen Composite TS : 2025-04-01 12:02:31.199998
+Bremen Composite Error : 6.02e-04
+Bremen Extended : 0.55001
+Bremen Extended TS : 2025-04-01 12:02:31.199998
