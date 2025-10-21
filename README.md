@@ -1,4 +1,5 @@
-# suit-mgii-index
+# SUIT Mg II index
+
 SUIT Mg II index generation code
 
 Magnesium II index is defined as the Ratio of the Mg II h & k, core to wing ratio. 
